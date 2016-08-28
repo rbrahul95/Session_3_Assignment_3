@@ -1,13 +1,12 @@
 /*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+ Write a java program which generates a random number
+such that 0 <= Random Number <= N-1 * where N is a given input
+number.
+
  */
 package acadglid;
 
-/**
- *
- * @author My
- */
+//Problem 3
 public class Session_3_Assignment_3 {
      public static void main(String args[])
     {
